@@ -1,1 +1,2 @@
-# Statistical-Methods-Project
+# **_STATISTICAL METHODS PROJECT_**
+The COVID-19 pandemic posed significant mental health challenges for pregnant individuals. This project analysis aimed to understand the impact of COVID-19-related stresses on pregnant individuals during the COVID-19 Pandemic (PdP) project in Canada, primarily focusing on the relationship between postnatal depression, anxiety, and maternal demographic factors. The findings can help identify vulnerable populations and inform targeted mental health interventions to support the well-being of pregnant people in future public health emergencies.
